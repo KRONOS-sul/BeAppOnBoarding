@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.accounts.AccountsFragment">
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/avatar"
+        android:layout_width="160dp"
+        android:layout_height="160dp"
+        android:layout_marginTop="128dp"
+        android:elevation="1dp"
+        android:src="@color/black"
+        app:civ_border_color="@color/white"
+        app:civ_border_width="4dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/avatar_change_btn"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:layout_marginStart="100dp"
+        android:background="@drawable/circular_btn"
+        android:drawableStart="@drawable/ic_camera"
+        android:paddingStart="8dp"
+        app:layout_constraintBottom_toBottomOf="@id/avatar"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:background="@drawable/account_fragment_upper_background"
+        app:layout_constraintBottom_toTopOf="@id/bottom_layout"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <androidx.appcompat.widget.Toolbar
+            style="@style/MyToolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?actionBarSize"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:navigationIcon="@drawable/ic_settings">
+
+            <TextView
+                style="@style/MyToolbarTitle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/account" />
+
+            <TextView
+                android:id="@+id/exit_btn"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="end"
+                android:text="@string/exit"
+                android:textColor="@color/purple_light"
+                android:textSize="18sp" />
+        </androidx.appcompat.widget.Toolbar>
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/bottom_layout"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginTop="240dp"
+        android:background="@drawable/account_fragment_bottom_background"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <TextView
+            android:id="@+id/nickname"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="60dp"
+            android:fontFamily="sans-serif-light"
+            android:text="@string/nickname"
+            android:textColor="@color/purple"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/birthday"
+            style="@style/TextView"
+            android:text="@string/birthday"
+            app:drawableStartCompat="@drawable/cake_1"
+            app:layout_constraintEnd_toStartOf="@id/phone_number"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/nickname" />
+
+        <TextView
+            android:id="@+id/phone_number"
+            style="@style/TextView"
+            android:text="+996507808058"
+            app:drawableStartCompat="@drawable/smartphone_1"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/birthday"
+            app:layout_constraintTop_toBottomOf="@id/nickname" />
+
+        <androidx.appcompat.widget.SwitchCompat
+            android:id="@+id/switch_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="40dp"
+            android:background="@null"
+            android:textColor="@color/white"
+            android:thumb="@drawable/switch_selected"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/birthday"
+            app:track="@drawable/switch_hint" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>
+

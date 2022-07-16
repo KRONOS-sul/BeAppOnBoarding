@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Bakai Belekov/AndroidStudioProjects/BeAppBBB/app/src/main/res/drawable-v24/ic_menu.xml" value="0.1775" />
+        <entry key="..\:/Users/Bakai Belekov/AndroidStudioProjects/BeAppBBB/app/src/main/res/drawable/bc_day.xml" value="0.185" />
+        <entry key="..\:/Users/Bakai Belekov/AndroidStudioProjects/BeAppBBB/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" value="0.185" />
+        <entry key="..\:/Users/Bakai Belekov/AndroidStudioProjects/BeAppBBB/app/src/main/res/drawable/ic_menu.xml" value="0.1775" />
+        <entry key="..\:/Users/Bakai Belekov/AndroidStudioProjects/BeAppBBB/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Bakai Belekov/AndroidStudioProjects/BeAppBBB/app/src/main/res/layout/fragment_accounts.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Bakai Belekov/AndroidStudioProjects/BeAppBBB/app/src/main/res/layout/fragment_dashboard.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Bakai Belekov/AndroidStudioProjects/BeAppBBB/app/src/main/res/layout/fragment_home.xml" value="0.264" />
+        <entry key="..\:/Users/Bakai Belekov/AndroidStudioProjects/BeAppBBB/app/src/main/res/layout/fragment_notifications.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Bakai Belekov/AndroidStudioProjects/BeAppBBB/app/src/main/res/layout/fragment_records.xml" value="0.264" />
+        <entry key="..\:/Users/Bakai Belekov/AndroidStudioProjects/BeAppBBB/app/src/main/res/layout/fragment_salons.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Bakai Belekov/AndroidStudioProjects/BeAppBBB/app/src/main/res/menu/bottom_nav_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Bakai Belekov/AndroidStudioProjects/BeAppBBB/app/src/main/res/menu/filter.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/KRONOS/Desktop/BeAppBBB-master/app/src/main/res/drawable/account_fragment_bottom_background.xml" value="0.1675" />
+        <entry key="..\:/Users/KRONOS/Desktop/BeAppBBB-master/app/src/main/res/drawable/account_fragment_upper_background.xml" value="0.1675" />
+        <entry key="..\:/Users/KRONOS/Desktop/BeAppBBB-master/app/src/main/res/drawable/bc_day.xml" value="0.1675" />
+        <entry key="..\:/Users/KRONOS/Desktop/BeAppBBB-master/app/src/main/res/drawable/cake.xml" value="0.143" />
+        <entry key="..\:/Users/KRONOS/Desktop/BeAppBBB-master/app/src/main/res/drawable/circular_btn.xml" value="0.1675" />
+        <entry key="..\:/Users/KRONOS/Desktop/BeAppBBB-master/app/src/main/res/drawable/frame_1.xml" value="0.143" />
+        <entry key="..\:/Users/KRONOS/Desktop/BeAppBBB-master/app/src/main/res/drawable/group_1__1_.xml" value="0.143" />
+        <entry key="..\:/Users/KRONOS/Desktop/BeAppBBB-master/app/src/main/res/drawable/ic_account.xml" value="0.1675" />
+        <entry key="..\:/Users/KRONOS/Desktop/BeAppBBB-master/app/src/main/res/drawable/ic_camera.xml" value="0.1675" />
+        <entry key="..\:/Users/KRONOS/Desktop/BeAppBBB-master/app/src/main/res/drawable/ic_filter.xml" value="0.1675" />
+        <entry key="..\:/Users/KRONOS/Desktop/BeAppBBB-master/app/src/main/res/drawable/ic_home.xml" value="0.1675" />
+        <entry key="..\:/Users/KRONOS/Desktop/BeAppBBB-master/app/src/main/res/drawable/ic_smartphone.xml" value="0.1675" />
+        <entry key="..\:/Users/KRONOS/Desktop/BeAppBBB-master/app/src/main/res/drawable/stroke.xml" value="0.1675" />
+        <entry key="..\:/Users/KRONOS/Desktop/BeAppBBB-master/app/src/main/res/drawable/swiiiiitch.xml" value="0.1675" />
+        <entry key="..\:/Users/KRONOS/Desktop/BeAppBBB-master/app/src/main/res/drawable/switch_btn_hint.xml" value="0.1675" />
+        <entry key="..\:/Users/KRONOS/Desktop/BeAppBBB-master/app/src/main/res/drawable/switch_btn_hint56.xml" value="0.143" />
+        <entry key="..\:/Users/KRONOS/Desktop/BeAppBBB-master/app/src/main/res/drawable/switch_btn_hint_left.xml" value="0.1675" />
+        <entry key="..\:/Users/KRONOS/Desktop/BeAppBBB-master/app/src/main/res/drawable/switch_btn_on.xml" value="0.1675" />
+        <entry key="..\:/Users/KRONOS/Desktop/BeAppBBB-master/app/src/main/res/drawable/switch_button_off.xml" value="0.143" />
+        <entry key="..\:/Users/KRONOS/Desktop/BeAppBBB-master/app/src/main/res/drawable/switch_button_on.xml" value="0.143" />
+        <entry key="..\:/Users/KRONOS/Desktop/BeAppBBB-master/app/src/main/res/drawable/switch_hint.xml" value="0.1675" />
+        <entry key="..\:/Users/KRONOS/Desktop/BeAppBBB-master/app/src/main/res/drawable/switch_left_disabled.xml" value="0.143" />
+        <entry key="..\:/Users/KRONOS/Desktop/BeAppBBB-master/app/src/main/res/drawable/switch_left_selected.xml" value="0.1675" />
+        <entry key="..\:/Users/KRONOS/Desktop/BeAppBBB-master/app/src/main/res/drawable/switch_right_disabled.xml" value="0.1675" />
+        <entry key="..\:/Users/KRONOS/Desktop/BeAppBBB-master/app/src/main/res/drawable/switch_right_selected.xml" value="0.1675" />
+        <entry key="..\:/Users/KRONOS/Desktop/BeAppBBB-master/app/src/main/res/drawable/switch_text.xml" value="0.1675" />
+        <entry key="..\:/Users/KRONOS/Desktop/BeAppBBB-master/app/src/main/res/drawable/swtich_btn.xml" value="0.1675" />
+        <entry key="..\:/Users/KRONOS/Desktop/BeAppBBB-master/app/src/main/res/drawable/tiggt.xml" value="0.1675" />
+        <entry key="..\:/Users/KRONOS/Desktop/BeAppBBB-master/app/src/main/res/layout/fragment_accounts.xml" value="0.4" />
+        <entry key="..\:/Users/KRONOS/Downloads/BeAppBBB-master (1)/BeAppBBB-master/app/src/main/res/drawable/map_frame.xml" value="0.165" />
+        <entry key="..\:/Users/KRONOS/Downloads/BeAppBBB-master (1)/BeAppBBB-master/app/src/main/res/layout/fragment_on_boarding.xml" value="0.4740484429065744" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

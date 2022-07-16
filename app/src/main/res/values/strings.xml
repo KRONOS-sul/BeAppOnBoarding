@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">BeAppBBB</string>
+    <string name="title_home">Home</string>
+    <string name="title_records">Records</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_salons">Salons</string>
+    <string name="title_account">Account</string>
+    <string name="name_app">BeApp</string>
+    <string name="tittle_records">Мои записи</string>
+    <string name="salons">Салоны</string>
+    <string name="account">Профиль</string>
+    <string name="exit">Выйти</string>
+    <string name="nickname">Султан Dzhumaliev</string>
+    <string name="birthday">26.06.2005</string>
+    <string name="first_screen_text">Яркий путь \n к красоте</string>
+    <string name="first_screen_title">Pасстояние в несколько нажатий \n⠀⠀ от следующей процедуры</string>
+    <string name="first_screen_description">Приложение для записей в салоны.\n Ваша запись проста и надежна!</string>
+    <string name="next">Далее</string>
+    <string name="skip">Пропустить</string>
+    <string name="second_screen_description">Вы можете найти салон \n подходящий вам</string>
+    <string name="second_screen_title">Найди свой лучший салон</string>
+    <string name="third_screen_title">Сделай свою запись-легкой</string>
+    <string name="third_screen_description">Запись онлайн. Выберайте \n свое время, салон и \n процедуру</string>
+</resources>
